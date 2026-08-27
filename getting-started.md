@@ -1,5 +1,4 @@
-[getting-started.md](https://github.com/user-attachments/files/31528790/getting-started.md)
-
+[getting-started.md](https://github.com/user-attachments/files/31528857/getting-started.md)
 # Getting Started --- Tools & Lab Setup
 
 Welcome to **Networking Fundamentals**.
@@ -16,27 +15,23 @@ without requiring physical Cisco equipment or a paid lab subscription.
 
 # What You Will Use
 
-  -----------------------------------------------------------------------
-  Tool                    Required?               Purpose
-  ----------------------- ----------------------- -----------------------
-  Cisco Packet Tracer     Yes                     Build and troubleshoot
-                                                  simulated networks
+- **Cisco Packet Tracer — Required**  
+  Build and troubleshoot simulated networks.
 
-  Wireshark               Yes                     Capture and analyze
-                                                  network traffic
+- **Wireshark — Required**  
+  Capture and analyze network traffic.
 
-  Windows networking      Yes for Windows labs    Troubleshooting and
-  commands                                        network inspection
+- **Windows networking commands — Required for Windows labs**  
+  Troubleshooting and network inspection.
 
-  PowerShell              Yes for Windows labs    Network administration
-                                                  and troubleshooting
+- **PowerShell — Required for Windows labs**  
+  Network administration and troubleshooting.
 
-  Visual Studio Code      Optional                Edit notes, Markdown,
-                                                  and PowerShell scripts
+- **Visual Studio Code — Optional**  
+  Edit notes, Markdown, and PowerShell scripts.
 
-  GitHub                  Recommended             Access the course and
-                                                  save your work
-  -----------------------------------------------------------------------
+- **GitHub — Recommended**  
+  Access the course and save your work.
 
 ------------------------------------------------------------------------
 
@@ -572,30 +567,15 @@ Basics](lessons/lesson-01-networking-basics.md)
 
 # Official Resource Quick Links
 
-  ----------------------------------------------------------------------------------------------------------------------------
-  Resource                            URL
-  ----------------------------------- ----------------------------------------------------------------------------------------
-  Cisco Packet Tracer                 https://www.netacad.com/cisco-packet-tracer
-
-  Packet Tracer Downloads             https://www.netacad.com/resources/lab-downloads
-
-  Packet Tracer Getting Started       https://www.netacad.com/getting-started-cisco-packet-tracer
-
-  Wireshark                           https://www.wireshark.org/
-
-  Wireshark Download                  https://www.wireshark.org/download.html
-
-  Wireshark User's Guide              https://www.wireshark.org/docs/wsug_html/
-
-  PowerShell Documentation            https://learn.microsoft.com/powershell/
-
-  PowerShell Installation             https://learn.microsoft.com/powershell/scripting/install/install-powershell-on-windows
-
-  Visual Studio Code                  https://code.visualstudio.com/
-
-  VS Code Download                    https://code.visualstudio.com/Download
-
-  GitHub                              https://github.com/
-
-  GitHub Documentation                https://docs.github.com/
-  ----------------------------------------------------------------------------------------------------------------------------
+- **Cisco Packet Tracer:** https://www.netacad.com/cisco-packet-tracer
+- **Packet Tracer Downloads:** https://www.netacad.com/resources/lab-downloads
+- **Packet Tracer Getting Started:** https://www.netacad.com/getting-started-cisco-packet-tracer
+- **Wireshark:** https://www.wireshark.org/
+- **Wireshark Download:** https://www.wireshark.org/download.html
+- **Wireshark User's Guide:** https://www.wireshark.org/docs/wsug_html/
+- **PowerShell Documentation:** https://learn.microsoft.com/powershell/
+- **PowerShell Installation:** https://learn.microsoft.com/powershell/scripting/install/install-powershell-on-windows
+- **Visual Studio Code:** https://code.visualstudio.com/
+- **VS Code Download:** https://code.visualstudio.com/Download
+- **GitHub:** https://github.com/
+- **GitHub Documentation:** https://docs.github.com/

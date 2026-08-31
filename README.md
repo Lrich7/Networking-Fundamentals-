@@ -1,425 +1,284 @@
-[networking-fundamentals-README.md](https://github.com/user-attachments/files/31560843/networking-fundamentals-README.md)
+[🌐 Networking Fundamentals.md](https://github.com/user-attachments/files/31656768/Networking.Fundamentals.md)
 # 🌐 Networking Fundamentals
 
-![Networking Fundamentals Training
-Plan](images/networking-fundamentals-training-plan.png)
+A practical, hands-on guide to learning computer networking from the ground up.
 
-> **A hands-on networking training course designed to take you from
-> networking basics to building, securing, and troubleshooting
-> real-world networks.**
+Whether networking is completely new to you or you've already spent time troubleshooting devices, running `ipconfig`, configuring equipment, or working in IT, this course is designed to strengthen your understanding of **how networks actually work**.
 
-This repository is a practical, beginner-friendly training path for
-learning the fundamentals of computer networking.
+You don't need to be a networking expert to begin. We'll start with the fundamentals, build each concept step by step, and gradually move into real-world configuration, troubleshooting, and network administration.
 
-The course uses **Cisco Packet Tracer, Wireshark, Windows networking
-tools, and PowerShell** to combine theory with practical experience.
+By the end, the goal isn't just to recognize networking terminology — it's to be able to **understand a network, investigate problems, and confidently use networking tools in real IT situations.**
 
-------------------------------------------------------------------------
+---
 
-# 🚀 Start Here
+<p align="center">
+  <img src="images/networking-fundamentals-training-plan.png" alt="Networking Fundamentals Training Plan" width="850">
+</p>
 
-➡️ **[Getting Started](getting-started.md)**
+---
 
-➡️ **[Begin Lesson 01 --- Networking
-Basics](lessons/lesson-01-networking-basics.md)**
+## 🎯 What You'll Learn
 
-------------------------------------------------------------------------
+Throughout this course, you'll learn about:
 
-# 🎯 Course Goals
+- How computer networks work
+- LANs, WANs, and other network types
+- Network devices and their roles
+- Network topologies
+- The OSI and TCP/IP models
+- Ethernet and MAC addressing
+- IPv4 and IPv6 addressing
+- Subnetting fundamentals
+- DHCP and automatic addressing
+- DNS and name resolution
+- Routing and default gateways
+- Switching
+- TCP and UDP
+- Common ports and protocols
+- Wireless networking
+- Network security fundamentals
+- Firewalls and network segmentation
+- VPNs and remote connectivity
+- Network troubleshooting methodology
+- Windows networking commands and tools
+- Packet analysis
+- Cisco Packet Tracer
+- Building and troubleshooting networks
 
-By completing this course, you should be able to:
+The course progresses from fundamental concepts into practical networking skills that can be applied in real IT environments.
 
--   Understand how computer networks operate.
--   Explain LANs, WANs, topologies, and network devices.
--   Understand the OSI and TCP/IP models.
--   Configure IPv4 addressing and subnetting.
--   Understand IPv6 fundamentals.
--   Work with Ethernet, MAC addresses, and ARP.
--   Understand TCP, UDP, ports, and common protocols.
--   Configure and troubleshoot DNS and DHCP.
--   Understand NAT and PAT.
--   Configure routers, switches, VLANs, and trunks.
--   Configure inter-VLAN routing.
--   Understand common network security controls.
--   Use Windows and PowerShell networking tools.
--   Capture and analyze traffic with Wireshark.
--   Troubleshoot network connectivity systematically.
--   Document networks and configurations.
--   Build complete networks in Cisco Packet Tracer.
+---
 
-------------------------------------------------------------------------
+# 🧭 How This Course Works
 
-# 🧭 Learning Path
+Networking is easier to learn when you can **see and use the concepts**, not just read about them.
 
-``` text
-LEARN
-  ↓
-PRACTICE
-  ↓
-APPLY
-  ↓
-TROUBLESHOOT
-  ↓
-MASTER
-```
+For that reason, the course is divided into several parts.
 
-------------------------------------------------------------------------
+## 📘 Lessons
 
-# 🟢 Section 1 --- Networking Foundations
+Lessons explain the concepts and technologies you need to understand.
 
--   [Lesson 01 --- Networking
-    Basics](lessons/lesson-01-networking-basics.md)
--   [Lesson 02 --- Network Types and
-    Topologies](lessons/lesson-02-network-types-and-topologies.md)
--   [Lesson 03 --- Network
-    Devices](lessons/lesson-03-network-devices.md)
--   [Lesson 04 --- OSI Model](lessons/lesson-04-osi-model.md)
--   [Lesson 05 --- TCP/IP Model](lessons/lesson-05-tcp-ip-model.md)
+Each lesson focuses on a specific networking topic and prepares you for the corresponding lab.
 
-🛠️ **[Project 01 --- Build Your First
-Network](projects/project-01-build-your-first-network.md)**
+---
 
-------------------------------------------------------------------------
+## 🧪 Labs
 
-# 🔵 Section 2 --- Ethernet & Physical Networking
+Labs provide hands-on practice with the concepts introduced in each lesson.
 
--   [Lesson 06 --- Ethernet
-    Fundamentals](lessons/lesson-06-ethernet-fundamentals.md)
--   [Lesson 07 --- MAC Addresses and
-    ARP](lessons/lesson-07-mac-addresses-and-arp.md)
--   [Lesson 08 --- Network Cables and
-    Connectors](lessons/lesson-08-network-cables-and-connectors.md)
--   [Lesson 09 --- Ethernet Standards and
-    Speeds](lessons/lesson-09-ethernet-standards-and-speeds.md)
--   [Lesson 10 --- Wireless Networking
-    Basics](lessons/lesson-10-wireless-networking-basics.md)
+Depending on the topic, you may use:
 
-🛠️ **[Project 02 --- Small Office
-Network](projects/project-02-small-office-network.md)**
+- Windows
+- PowerShell
+- Command Prompt
+- Cisco Packet Tracer
+- Wireshark
+- Networking utilities
+- Your own computer or network
 
-------------------------------------------------------------------------
+The goal is to turn networking concepts into practical skills.
 
-# 🟣 Section 3 --- IP Addressing & Subnetting
+---
 
--   [Lesson 11 --- IPv4
-    Addressing](lessons/lesson-11-ipv4-addressing.md)
--   [Lesson 12 --- Subnet Masks and
-    CIDR](lessons/lesson-12-subnet-masks-and-cidr.md)
--   [Lesson 13 --- Subnetting
-    Fundamentals](lessons/lesson-13-subnetting-fundamentals.md)
--   [Lesson 14 --- IPv6
-    Fundamentals](lessons/lesson-14-ipv6-fundamentals.md)
--   [Lesson 15 --- IP Addressing
-    Troubleshooting](lessons/lesson-15-ip-addressing-troubleshooting.md)
+## 🛠️ Projects
 
-🛠️ **[Project 03 --- Address and Subnet a Growing
-Business](projects/project-03-address-and-subnet-a-growing-business.md)**
+Projects combine concepts from multiple lessons into larger real-world exercises.
 
-------------------------------------------------------------------------
+Instead of following individual commands step by step, projects will challenge you to apply what you've learned to tasks such as:
 
-# 🟠 Section 4 --- Transport & Network Services
+- Building a small network
+- Documenting a network
+- Investigating connectivity problems
+- Analyzing network traffic
+- Configuring addressing
+- Troubleshooting devices
+- Performing a network assessment
 
--   [Lesson 16 --- TCP, UDP, Ports, and
-    Protocols](lessons/lesson-16-tcp-udp-ports-and-protocols.md)
--   [Lesson 17 --- DNS
-    Fundamentals](lessons/lesson-17-dns-fundamentals.md)
--   [Lesson 18 --- DHCP
-    Fundamentals](lessons/lesson-18-dhcp-fundamentals.md)
--   [Lesson 19 --- NAT and PAT
-    Fundamentals](lessons/lesson-19-nat-and-pat-fundamentals.md)
+Projects are designed to gradually require more independent problem-solving as you progress through the course.
 
-🛠️ **[Project 04 --- Deploy Core Network
-Services](projects/project-04-deploy-core-network-services.md)**
+---
 
-------------------------------------------------------------------------
+# 🧑‍💻 Cisco Networking Academy Companion
 
-# 🔴 Section 5 --- Routing & Switching
+This course can be used on its own, but it also works alongside Cisco's networking training.
 
--   [Lesson 20 --- Routing
-    Fundamentals](lessons/lesson-20-routing-fundamentals.md)
--   [Lesson 21 --- Switching
-    Fundamentals](lessons/lesson-21-switching-fundamentals.md)
--   [Lesson 22 --- VLANs and
-    Trunking](lessons/lesson-22-vlans-and-trunking.md)
--   [Lesson 23 --- Inter-VLAN
-    Routing](lessons/lesson-23-inter-vlan-routing.md)
--   [Lesson 24 --- Routing and Switching
-    Troubleshooting](lessons/lesson-24-routing-and-switching-troubleshooting.md)
+Selected lessons will point to related material from **Cisco Networking Academy's Networking Basics course**.
 
-🛠️ **[Project 05 --- Build a Segmented Business
-Network](projects/project-05-build-a-segmented-business-network.md)**
+Cisco resources can provide additional:
 
-------------------------------------------------------------------------
+- Interactive learning
+- Networking simulations
+- Packet Tracer exercises
+- Configuration practice
+- Knowledge checks
 
-# 🛡️ Section 6 --- Network Security
+You do **not** need to complete every Cisco activity before continuing through this course.
 
--   [Lesson 25 --- Network Security
-    Fundamentals](lessons/lesson-25-network-security-fundamentals.md)
--   [Lesson 26 --- Firewalls](lessons/lesson-26-firewalls.md)
--   [Lesson 27 --- Access Control
-    Lists](lessons/lesson-27-access-control-lists.md)
--   [Lesson 28 --- VPNs and Secure Remote
-    Access](lessons/lesson-28-vpns-and-secure-remote-access.md)
--   [Lesson 29 --- Wireless
-    Security](lessons/lesson-29-wireless-security.md)
--   [Lesson 30 --- Network Threats and
-    Attacks](lessons/lesson-30-network-threats-and-attacks.md)
--   [Lesson 31 --- Network
-    Hardening](lessons/lesson-31-network-hardening.md)
+Think of Cisco Networking Academy as an additional practice environment that can reinforce what you're learning here.
 
-🛠️ **[Project 06 --- Secure the
-Network](projects/project-06-secure-the-network.md)**
+➡️ [Cisco Networking Companion](resources/cisco-companion.md)
 
-------------------------------------------------------------------------
+---
 
-# 🔎 Section 7 --- Troubleshooting & Administration
+# 🖥️ Hands-On Networking
 
--   [Lesson 32 --- Network Troubleshooting
-    Methodology](lessons/lesson-32-network-troubleshooting-methodology.md)
--   [Lesson 33 --- Windows Networking
-    Commands](lessons/lesson-33-windows-networking-commands.md)
--   [Lesson 34 --- PowerShell Networking
-    Tools](lessons/lesson-34-powershell-networking-tools.md)
--   [Lesson 35 --- Wireshark
-    Fundamentals](lessons/lesson-35-wireshark-fundamentals.md)
--   [Lesson 36 --- Packet
-    Analysis](lessons/lesson-36-packet-analysis.md)
--   [Lesson 37 --- Troubleshooting
-    Connectivity](lessons/lesson-37-troubleshooting-connectivity.md)
--   [Lesson 38 --- Troubleshooting DNS and
-    DHCP](lessons/lesson-38-troubleshooting-dns-and-dhcp.md)
--   [Lesson 39 --- Troubleshooting Switching and
-    Routing](lessons/lesson-39-troubleshooting-switching-and-routing.md)
--   [Lesson 40 --- Network Documentation and
-    Monitoring](lessons/lesson-40-network-documentation-and-monitoring.md)
+A major part of this course is learning how to investigate networks yourself.
 
-🏆 **[Project 07 --- Network Troubleshooting
-Capstone](projects/project-07-network-troubleshooting-capstone.md)**
+You'll gradually become familiar with tools and commands such as:
 
-------------------------------------------------------------------------
-
-# 🛠️ Hands-On Labs
-
-Every lesson is paired with a practical lab involving tools and
-activities such as:
-
--   Cisco Packet Tracer
--   Windows networking commands
--   PowerShell
--   Wireshark
--   Simulated network failures
--   Troubleshooting tickets
--   Configuration exercises
--   Knowledge checks
--   Challenges
-
-➡️ **[Browse All Labs](labs/)**
-
-------------------------------------------------------------------------
-
-# 🏗️ Projects
-
-1.  [Project 01 --- Build Your First
-    Network](projects/project-01-build-your-first-network.md)
-2.  [Project 02 --- Small Office
-    Network](projects/project-02-small-office-network.md)
-3.  [Project 03 --- Address and Subnet a Growing
-    Business](projects/project-03-address-and-subnet-a-growing-business.md)
-4.  [Project 04 --- Deploy Core Network
-    Services](projects/project-04-deploy-core-network-services.md)
-5.  [Project 05 --- Build a Segmented Business
-    Network](projects/project-05-build-a-segmented-business-network.md)
-6.  [Project 06 --- Secure the
-    Network](projects/project-06-secure-the-network.md)
-7.  [Project 07 --- Network Troubleshooting
-    Capstone](projects/project-07-network-troubleshooting-capstone.md)
-
-------------------------------------------------------------------------
-
-# 💻 Tools Used
-
-## Cisco Packet Tracer
-
-Used to build simulated networks containing routers, switches, PCs,
-servers, wireless devices, VLANs, routing, and network services.
-
-## Wireshark
-
-Used to examine Ethernet, ARP, ICMP, TCP, UDP, DNS, and other network
-traffic.
-
-## Windows Networking Tools
-
-``` powershell
-ipconfig /all
+```powershell id="v4f8km"
+ipconfig
 ping
 tracert
 nslookup
-arp -a
-netstat -ano
-```
-
-## PowerShell
-
-``` powershell
-Get-NetAdapter
-Get-NetIPConfiguration
-Get-NetRoute
-Get-NetTCPConnection
+arp
+netstat
+route
 Test-NetConnection
+Get-NetIPConfiguration
+Get-NetAdapter
 Resolve-DnsName
 ```
 
-------------------------------------------------------------------------
+You'll also learn **when and why** you would use each tool.
 
-# 📁 Repository Structure
+Later exercises will introduce network simulation and packet analysis so you can see what is happening behind the commands.
 
-``` text
+---
+
+# 🧰 Tools Used
+
+You won't need every tool immediately.
+
+We'll introduce them as they become useful.
+
+Some of the primary tools used throughout the course include:
+
+- Cisco Packet Tracer
+- Wireshark
+- Windows PowerShell
+- Windows Command Prompt
+- Windows networking utilities
+- Web browser
+- GitHub
+
+Installation instructions and useful links are available here:
+
+➡️ [Getting Started](getting-started.md)
+
+---
+
+# 📂 Repository Structure
+
+```text id="ssrbsi"
 Networking-Fundamentals/
+│
 ├── README.md
 ├── getting-started.md
+│
 ├── lessons/
+│   └── README.md
+│
 ├── labs/
+│   └── README.md
+│
 ├── projects/
-├── packet-tracer/
-│   ├── labs/
-│   ├── projects/
-│   └── challenges/
-├── wireshark/
-│   ├── captures/
-│   └── exercises/
-├── troubleshooting/
-│   ├── scenarios/
-│   └── answer-keys/
-├── CheatSheet/
+│   └── README.md
+│
 ├── resources/
-├── practice-exams/
-├── reference/
+│   ├── README.md
+│   └── cisco-companion.md
+│
+├── cheatsheets/
+│   └── README.md
+│
 └── images/
-    ├── diagrams/
-    └── screenshots/
+    └── networking-fundamentals-training-plan.png
 ```
 
-------------------------------------------------------------------------
+## 📘 `lessons/`
 
-# 🧠 How to Use This Course
+Contains the main networking lessons.
 
-``` text
-Read the Lesson
-       ↓
-Complete the Lab
-       ↓
-Complete the Challenge
-       ↓
-Move to the Next Lesson
-       ↓
-Complete the Section Project
-       ↓
-Continue to the Next Section
-```
+## 🧪 `labs/`
 
-**Troubleshooting the problem is part of the training.**
+Contains hands-on exercises corresponding to the lessons.
 
-------------------------------------------------------------------------
+## 🛠️ `projects/`
 
-# 🔧 Troubleshooting Philosophy
+Contains larger exercises combining skills from multiple lessons.
 
-``` text
-Understand the problem
-        ↓
-Determine the scope
-        ↓
-Check the basics
-        ↓
-Collect evidence
-        ↓
-Form a theory
-        ↓
-Test the theory
-        ↓
-Fix the root cause
-        ↓
-Verify functionality
-        ↓
-Document the solution
-```
+## 📚 `resources/`
 
-The goal is not to memorize every networking command.
+Contains additional learning resources, Cisco companion material, references, and useful links.
 
-The goal is to understand **what to check next and why**.
+## 📋 `cheatsheets/`
 
-------------------------------------------------------------------------
+Contains quick-reference material for commands, protocols, ports, addressing, troubleshooting, and other networking concepts.
 
-# 📚 Additional Training Resources
+## 🖼️ `images/`
 
--   **[Cheat Sheet](CheatSheet/)**
--   **[Resources](resources/)**
--   **[Practice Exams](practice-exams/)**
--   **[Reference Material](reference/)**
--   **[Packet Tracer Exercises](packet-tracer/)**
--   **[Wireshark Exercises](wireshark/)**
--   **[Troubleshooting Scenarios](troubleshooting/)**
+Contains diagrams and images used throughout the training material.
 
-------------------------------------------------------------------------
+---
 
-# 🏁 Course Roadmap
+# 🚀 Where to Start
 
-``` text
-GETTING STARTED
-      ↓
-SECTION 1 — Networking Foundations
-      ↓
-PROJECT 01
-      ↓
-SECTION 2 — Ethernet & Physical Networking
-      ↓
-PROJECT 02
-      ↓
-SECTION 3 — IP Addressing & Subnetting
-      ↓
-PROJECT 03
-      ↓
-SECTION 4 — Transport & Network Services
-      ↓
-PROJECT 04
-      ↓
-SECTION 5 — Routing & Switching
-      ↓
-PROJECT 05
-      ↓
-SECTION 6 — Network Security
-      ↓
-PROJECT 06
-      ↓
-SECTION 7 — Troubleshooting & Administration
-      ↓
-PROJECT 07 — Network Troubleshooting Capstone
-      ↓
-🎓 COURSE COMPLETE
-```
+If you're beginning the course for the first time, follow the course in this order.
 
-------------------------------------------------------------------------
+### 1️⃣ Prepare Your Environment
 
-# 🎓 Final Goal
+➡️ [Getting Started](getting-started.md)
 
-By the end of the course, you will have progressed from building your
-first simple network to diagnosing a complete multi-network business
-environment.
+Install the tools we'll use and become familiar with the training environment.
 
-You will have practiced:
+### 2️⃣ Start the Lessons
 
-**Designing → Building → Configuring → Securing → Monitoring →
-Troubleshooting → Documenting**
+➡️ [Networking Lessons](lessons/README.md)
 
-------------------------------------------------------------------------
+Work through the lessons in order to build your networking knowledge.
 
-# 🚀 Ready to Begin?
+### 3️⃣ Complete the Labs
+
+➡️ [Networking Labs](labs/README.md)
+
+Use the labs to practice what you learn in each lesson.
+
+### 4️⃣ Test Your Skills
+
+➡️ [Networking Projects](projects/README.md)
+
+Projects combine multiple networking concepts into practical scenarios.
+
+---
+
+# 🧠 The Goal
+
+You may begin this course knowing very little about networking.
+
+You may also already work with networks regularly but want a stronger understanding of what is happening behind the scenes.
+
+**Either starting point is fine.**
+
+Networking knowledge develops by combining:
+
+**Concepts → Observation → Practice → Troubleshooting**
+
+The goal of this course is to help you move from:
+
+> **"I know some networking commands."**
+
+to:
+
+> **"I understand what the network is doing, and I know how to start figuring out what's wrong."**
+
+That ability is one of the most valuable skills you can develop in IT.
+
+---
+
+# 🌐 Ready to Begin?
+
+Start by preparing your networking environment:
 
 ➡️ **[Getting Started](getting-started.md)**
-
-➡️ **[Lesson 01 --- Networking
-Basics](lessons/lesson-01-networking-basics.md)**
-
-------------------------------------------------------------------------
-
-> **Build it. Break it. Troubleshoot it. Understand it.**

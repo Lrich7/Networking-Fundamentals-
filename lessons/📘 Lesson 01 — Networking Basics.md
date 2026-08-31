@@ -976,22 +976,7 @@ A likely area to investigate is:
 
 As you progress through the course, try to connect every networking concept to a troubleshooting symptom.
 
----
 
-# 🧪 Hands-On Lab
-
-Now put the lesson into practice.
-
-➡️ **[Lab 01 — Networking Basics](../labs/lab-01-networking-basics.md)**
-
-In the lab, you'll inspect your own Windows computer and identify:
-
-- Network adapters
-- IPv4 address
-- Default gateway
-- DNS servers
-- Basic connectivity
-- PowerShell network information
 
 ---
 
@@ -1040,9 +1025,24 @@ For an additional explanation of how devices communicate across a network:
 
 # 🧪 Next Step — Complete the Lab
 
-Now put what you learned into practice.
+---
+
+# 🧪 Hands-On Lab
+
+Now put the lesson into practice.
 
 ➡️ **[Lab 01 — Networking Basics](../labs/lab-01-networking-basics.md)**
+
+In the lab, you'll inspect your own Windows computer and identify:
+
+- Network adapters
+- IPv4 address
+- Default gateway
+- DNS servers
+- Basic connectivity
+- PowerShell network information
+
+---
 
 After completing Lab 01, continue to:
 

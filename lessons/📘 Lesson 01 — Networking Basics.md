@@ -1017,7 +1017,7 @@ For now, focus on understanding the foundational concepts.
 
 ---
 
-[🎥 Recommended Video.md](https://github.com/user-attachments/files/31657737/Recommended.Video.md)
+
 # 🎥 Recommended Video
 
 For an additional explanation of how devices communicate across a network:

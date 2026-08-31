@@ -1036,8 +1036,14 @@ For an additional explanation of how devices communicate across a network:
 
 ---
 
-# ➡️ Next Lesson
+---
+
+# 🧪 Next Step — Complete the Lab
+
+Now put what you learned into practice.
+
+➡️ **[Lab 01 — Networking Basics](../labs/lab-01-networking-basics.md)**
 
 After completing Lab 01, continue to:
 
-➡️ **Lesson 02 — Network Types and Topologies**
+➡️ **[Lesson 02 — Network Types and Topologies](lesson-02-network-types-and-topologies.md)**

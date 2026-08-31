@@ -1,4 +1,4 @@
-[📘 Lesson 01 — Networking Basics.md](https://github.com/user-attachments/files/31657721/Lesson.01.Networking.Basics.md)
+[📘 Lesson 01 — Networking Basics.md](https://github.com/user-attachments/files/31660929/Lesson.01.Networking.Basics.md)
 # 📘 Lesson 01 — Networking Basics
 
 Welcome to **Lesson 01 of Networking Fundamentals**.
@@ -32,7 +32,7 @@ By the end of this lesson, you should be able to:
 
 # 🎓 Network+ Focus
 
-This lesson introduces concepts that support the **Networking Concepts** portion of CompTIA Network+.
+This lesson introduces concepts that support the **Networking Concepts** portion of CompTIA Network+ N10-009.
 
 Pay particular attention to:
 
@@ -294,8 +294,6 @@ Examples include:
 - Public websites
 - Cloud platforms
 
----
-
 ## Intranet
 
 An **intranet** is a private network or private collection of resources used within an organization.
@@ -459,7 +457,7 @@ Humans prefer names like:
 github.com
 ```
 
-Networks ultimately need addressing information such as:
+Networks ultimately need addressing information such as an:
 
 ```text
 IP address
@@ -976,8 +974,6 @@ A likely area to investigate is:
 
 As you progress through the course, try to connect every networking concept to a troubleshooting symptom.
 
-
-
 ---
 
 # 🌐 Cisco Companion
@@ -1002,8 +998,7 @@ For now, focus on understanding the foundational concepts.
 
 ---
 
-
-# 🎥 Recommended Video
+# 🎥 Optional Video Resource
 
 For an additional explanation of how devices communicate across a network:
 
@@ -1021,29 +1016,12 @@ For an additional explanation of how devices communicate across a network:
 
 ---
 
----
-
 # 🧪 Next Step — Complete the Lab
 
----
-
-# 🧪 Hands-On Lab
-
-Now put the lesson into practice.
+Now put what you learned into practice.
 
 ➡️ **[Lab 01 — Networking Basics](../labs/lab-01-networking-basics.md)**
 
-In the lab, you'll inspect your own Windows computer and identify:
-
-- Network adapters
-- IPv4 address
-- Default gateway
-- DNS servers
-- Basic connectivity
-- PowerShell network information
-
----
-
 After completing Lab 01, continue to:
 
-➡️ **[Lesson 02 — Network Types and Topologies](lesson-02-network-types-and-topologies.md)**
+➡️ **Lesson 02 — Network Types and Topologies**

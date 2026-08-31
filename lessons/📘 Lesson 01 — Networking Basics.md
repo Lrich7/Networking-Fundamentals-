@@ -1,3 +1,4 @@
+[📘 Lesson 01 — Networking Basics.md](https://github.com/user-attachments/files/31657721/Lesson.01.Networking.Basics.md)
 # 📘 Lesson 01 — Networking Basics
 
 Welcome to **Lesson 01 of Networking Fundamentals**.
@@ -1013,6 +1014,25 @@ You're working toward:
 Project 01 will be completed after Lessons 01–05.
 
 For now, focus on understanding the foundational concepts.
+
+---
+
+[🎥 Recommended Video.md](https://github.com/user-attachments/files/31657737/Recommended.Video.md)
+# 🎥 Recommended Video
+
+For an additional explanation of how devices communicate across a network:
+
+### Professor Messer — Network Communication
+
+**CompTIA Network+ N10-009 — Network Communication (3:55)**
+
+➡️ [Watch — Network Communication](https://www.professormesser.com/network-plus/n10-009/n10-009-video/network-communication-n10-009/)
+
+> ⭐ **Optional**
+>
+> This short Professor Messer video reinforces the basic network communication concepts introduced in this lesson and provides additional Network+ exam-focused context.
+>
+> You do not need to watch it before completing the lab.
 
 ---
 

@@ -1,4 +1,4 @@
-[📘 Lesson 01 — Networking Basics.md](https://github.com/user-attachments/files/31660929/Lesson.01.Networking.Basics.md)
+
 # 📘 Lesson 01 — Networking Basics
 
 Welcome to **Lesson 01 of Networking Fundamentals**.

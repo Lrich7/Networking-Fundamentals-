@@ -1,4 +1,4 @@
-[🚀 Getting Started — Networking Fundamentals.md](https://github.com/user-attachments/files/31656927/Getting.Started.Networking.Fundamentals.md)
+
 # 🚀 Getting Started — Networking Fundamentals
 
 Welcome to **Networking Fundamentals**!

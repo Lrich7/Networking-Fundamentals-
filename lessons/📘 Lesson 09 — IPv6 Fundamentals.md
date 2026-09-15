@@ -4,7 +4,7 @@ Welcome to **Lesson 09 of Networking Fundamentals**.
 
 You've now learned:
 
-```text
+```text 
 Ethernet
     ↓
 MAC Addressing
